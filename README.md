@@ -9,4 +9,5 @@ an online calculator made with html, css and a bit of javascript.
 </ul>
 
 <h2>display</h2>
-<img width="1391" alt="Screenshot 2022-12-22 at 2 28 40 PM" src="https://user-images.githubusercontent.com/90479534/209212341-5a65007d-cb5f-42b5-bef5-bf8f0e9ab33a.png">
+
+[<img width="1391" alt="Screenshot 2022-12-22 at 2 28 40 PM" src="https://user-images.githubusercontent.com/90479534/209212341-5a65007d-cb5f-42b5-bef5-bf8f0e9ab33a.png">](https://myrahm.github.io/online-calculator/)
